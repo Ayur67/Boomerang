@@ -11,3 +11,4 @@ const game = new Game({
 game.play();
 
 //привет
+//Inshalla мы их сделаем
