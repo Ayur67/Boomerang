@@ -9,6 +9,3 @@ const game = new Game({
 
 // Запуск игры.
 game.play();
-
-//привет
-//Inshalla мы их сделаем
